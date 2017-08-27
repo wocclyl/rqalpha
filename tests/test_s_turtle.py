@@ -2,7 +2,7 @@ import numpy as np
 import talib
 import math
 
-
+# test test
 def get_extreme(array_high_price_result, array_low_price_result):
     np_array_high_price_result = np.array(array_high_price_result[:-1])
     np_array_low_price_result = np.array(array_low_price_result[:-1])
